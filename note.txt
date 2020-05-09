@@ -1,0 +1,9 @@
+1.Always put/link the javascript at the end of the body
+2.event listners syntax:
+    target.addEventListener(type,listners)
+3.console.log();
+    To print message in console without causing any alert
+4.Higher Order Function:
+        Functions that can take other function as input.
+5.Came accross setting background image for a button!!
+6.Shit CTRL+b to minimise the workspace section in VS Code
